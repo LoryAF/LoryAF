@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #EB9326"> Olá, eu sou Lory Flores 👋 </h1>
+<h1 align="center" style="color: #EB9326"> Olá, Sou a Lory Flores 👋 </h1>
 
 <h3 align="left"> Sobre mim </h3> 
 
