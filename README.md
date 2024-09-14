@@ -2,8 +2,9 @@
 
 <h3 align="left"> Sobre mim </h3> 
 
-- Estudante de Análise e Desenvolvimento de Sistemas.
-- Foco em desenvolver habilidades práticas na área de tecnologia.
+- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Sou desenvolvedora Back-End
+- 🌱 Foco em desenvolver habilidades práticas na área de tecnologia.
 
 <div align="left">
 
@@ -66,7 +67,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) -->
 </div>
 
-<h2 align="left"> Github Stats </h2>
+<h2 align="left"> Github Analytics </h2>
 
 <div align="center">
 
