@@ -1,14 +1,14 @@
 <h1 align="center" style="color: #EB9326"> Olá, eu sou Lory Flores 👋 </h1>
 
 </div>
-<h3 align=center> Sobre mim </h3> 
+<h3 align="left"> Sobre mim </h3> 
 
-<div align="center">
+<div align="left">
 
 <p>...</p>
 </div>
 
-<h2 align="center"> Habilidades </h2>
+<h2 align="left"> Habilidades </h2>
 
 <h3> Linguagens </h3>
 
@@ -47,7 +47,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 </div>
 
-<h2 align="center"> Github Stats </h2>
+<h2 align="left"> Github Stats </h2>
 
 <div align="center">
 
@@ -57,10 +57,12 @@
 
 </div>
 
-<h3 align="left">👩‍💻Contact me</h3>
+<h3 align="left">👩‍💻Contato </h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/loryflores/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
 </div>
+
+<img align="right" height="200" src="octocat.png"/>
