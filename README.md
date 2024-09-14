@@ -6,11 +6,6 @@
 - 💻 Sou desenvolvedora Back-End
 - 🌱 Foco em desenvolver habilidades práticas na área de tecnologia.
 
-<div align="left">
-
-<p>...</p>
-</div>
-
 <h2 align="left"> Linguagens e Ferramentas </h2>
 
 <h3> Linguagens </h3>
